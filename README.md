@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Vinish Bhaskar</h1>
+<h1 align="center">Hey there 👋, I'm Anurag Kumar</h1>
 <h3 align="center">( Frontend Developer | React JS | MERN Stack )</h3>
 <p align='center'>
 <a href="https://www.linkedin.com/in/vinishbhaskar/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
